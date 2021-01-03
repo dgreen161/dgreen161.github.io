@@ -1,0 +1,129 @@
+[
+  [
+    {
+      "render": false,
+      "section-title": "Employment History"
+    },
+    {
+      "render": true,
+      "company": "Just Eat Takeaway.com",
+      "website": "https://www.just-eat.co.uk",
+      "image": "just-eat.png",
+      "position": "Associate Data Analyst",
+      "start-month": "September 2020",
+      "end-month": "Present",
+      "description": [
+        "Currently working in the data modelling team"
+      ]
+    },
+    {
+      "render": true,
+      "company": "CheckoutSmart",
+      "website": "https://www.checkoutsmart.com",
+      "image": "checkoutsmart.png",
+      "position": "Business Analyst",
+      "start-month": "September 2019",
+      "end-month": "December 2019",
+      "description": [
+        "Adapted the role worked on placement year into a part time position to undertake alongside final year studies",
+        "Collected, manipulated and stored data through the use of Python and MySQL",
+        "Improved the speed and efficiency of these processes by using AWS Elastic Compute Cloud (EC2), AWS Lambda, and AWS Relational Database Service (RDS)",
+        "Used Git to share code with the technical team, JIRA for development tracking, and Slack for communication with all stakeholders",
+        "Reported to the Group MD, CTO and the Head of Business Analysis"
+      ]
+    },
+    {
+      "render": true,
+      "company": "CheckoutSmart",
+      "website": "https://www.checkoutsmart.com",
+      "image": "checkoutsmart.png",
+      "position": "Business Analyst Placement Student",
+      "start-month": "July 2018",
+      "end-month": "August 2019",
+      "description": [
+        "Developed data extraction scripts through SQL",
+        "Improved reporting procedures, reducing time taken by up to 500%",
+        "Created scalable scripts that enhanced the data extraction process, simplifying the reporting procedure",
+        "Undertook A/B tests to enhance the experience of members whilst optimising the workflow based on user behaviour",
+        "Worked closely with the commercial team to develop reports, ensuring that the client was well served, including Ad Hoc data requests",
+        "Communicated with the technical team to ensure the table structure, availability, and integrity was maintained and accessible",
+        "Automated the creation of decks with charts and commentary generated through advanced Excel and VBA functions",
+        "Trained and mentored a fellow analyst in SQL, Excel and PowerPoint"
+      ]
+    }
+  ],
+  [
+    {
+      "render": false,
+      "section-title": "Education"
+    },
+    {
+      "render": true,
+      "company": "Swansea University",
+      "website": "https://www.swansea.ac.uk/",
+      "image": "swansea-university.png",
+      "position": "BSc Economic, First Class Honours",
+      "start-month": "September 2016",
+      "end-month": "June 2020",
+      "description": [
+        "Achieved strong First Class Honours with 78% awarded on the undergraduate dissertation",
+        "Technically focussed dissertation using programming skills previously learned incorporating AWS, Python, and SQL",
+        "Especially enjoyed the analytics and econometrics based modules using SPSS, eViews, R and Python"
+      ]
+    }
+  ],
+  [
+    {
+      "render": false,
+      "section-title": "Voluntary Roles"
+    },
+    {
+      "render": true,
+      "company": "Swansea University Mountaineering Club",
+      "website": "http://www.sumc.org.uk/",
+      "image": "sumc.ico",
+      "position": "Mountaineering Officer",
+      "start-month": "June 2017",
+      "end-month": "June 2018",
+      "description": [
+        "Organised multiple events in the role with large numbers attending",
+        "Was involved in recruiting new students to the club which has saw 33% growth over the previous committee",
+        "Demonstrated leadership, communication and organisational skills along with the ability to build relationships with people"
+      ]
+    },
+    {
+      "render": true,
+      "company": "Scouts",
+      "website": "https://www.scouts.org.uk/",
+      "image": "scouts.png",
+      "position": "Colony Assistant",
+      "start-month": "September 2012",
+      "end-month": "September 2016",
+      "description": [
+        "For five years helped at a local Beaver group in the role of Colony Assistant",
+        "Thoroughly enjoyed supervising and leading activities for 6 – 8-year-old children",
+        "Developed teamwork and communication skills with both adults and young children"
+      ]
+    }
+  ],
+  [
+    {
+      "render": false,
+      "section-title": "Skills & Achievements"
+    },
+    {
+      "render": true,
+      "company": "",
+      "website": "",
+      "position": "Various",
+      "start-month": "",
+      "description": [
+        "Strong knowledge of Python and SQL with experience in VBA, R, and eViews",
+        "Highly proficient in all areas of Microsoft Office, including Excel, Word and PowerPoint",
+        "Completed both the Duke of Edinburgh Gold and Bronze Awards",
+        "One of 27 Scouts who represented Somerset at the World Scout Jamboree 2015 in Japan",
+        "Successfully ran an online reselling business alongside college and part-time work generating a net profit of over &pound;1000"
+      ]
+    }
+  ]
+]
